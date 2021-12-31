@@ -1,5 +1,6 @@
 {
   "name": "mylcra",
+  "version": "1.0.0",
   "description": "",
   "bin": "cli.js",
   "main": "index.js",
