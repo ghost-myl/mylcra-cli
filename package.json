@@ -1,6 +1,5 @@
 {
   "name": "mylcra",
-  "version": "1.0.19",
   "description": "",
   "bin": "cli.js",
   "main": "index.js",
@@ -13,6 +12,10 @@
   "author": {
     "name": "myl",
     "email": "ma919022572@163.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ghost-myl/mylcra-cli.git"
   },
   "license": "MIT",
   "keywords": [
