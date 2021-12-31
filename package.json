@@ -1,0 +1,34 @@
+{
+  "name": "mylcra",
+  "version": "1.0.19",
+  "description": "",
+  "bin": "cli.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "cli.js"
+  ],
+  "author": {
+    "name": "myl",
+    "email": "ma919022572@163.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "mylcra",
+    "脚手架"
+  ],
+  "dependencies": {
+    "axios": "^0.24.0",
+    "chalk": "^4.1.2",
+    "download-git-repo": "^3.0.2",
+    "ejs": "^3.1.6",
+    "execa": "^6.0.0",
+    "figlet": "^1.5.2",
+    "inquirer": "^8.2.0",
+    "listr": "^0.14.3",
+    "ora": "^6.0.1",
+    "pkg-install": "^1.0.0"
+  }
+}
